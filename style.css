@@ -1,0 +1,38 @@
+.btn-1{
+height:50px;
+width:800px;
+font-size:30px;
+}
+.name_of_objects{
+    font-size: 20px;
+    color:white;
+}
+body{
+    background-color: darkcyan;
+}
+p{
+    color:white;
+    font-size: 30px;
+}
+label{
+    color:white;
+    font-size: 20px;
+}
+h1{
+    color:white;
+}
+#camera{
+width:300px;
+height: 300px;
+border:2px  dashed white;
+}
+.take_photo{
+    background-color: cyan;
+    height:50px;
+    width:500px;
+    font-size: 30px;
+}
+#result_object_name, #result_object_accuracy{
+color:white;
+font-size: 22px;
+}
